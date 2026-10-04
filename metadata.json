@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Mastery",
+  "description": "Plateforme professionnelle de formation en ligne pour apprendre à développer son audience TikTok, créer du contenu viral et monétiser son compte.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
